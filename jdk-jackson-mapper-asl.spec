@@ -1,6 +1,6 @@
 Name     : jdk-jackson-mapper-asl
 Version  : 1.9.13
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar
 Source0  : http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar
 Source1  : http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.pom
